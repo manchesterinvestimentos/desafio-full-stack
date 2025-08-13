@@ -1,4 +1,4 @@
-# Desafio (Simplificado) — Carteira de Ações & Fundos
+# Desafio — Carteira de Ações & Fundos
 
 **Stack obrigatória:** React (Next.js) + Node (API Routes) + Supabase (Postgres/Auth) + Deploy na Vercel\
 **Escopo de ativos:** somente **Ações (B3)** e **Fundos (ANBIMA)**\
