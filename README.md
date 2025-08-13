@@ -2,7 +2,7 @@
 
 **Stack obrigatória:** React (Next.js) + Node (API Routes) + Supabase (Postgres/Auth) + Deploy na Vercel\
 **Escopo de ativos:** somente **Ações (B3)** e **Fundos (ANBIMA)**\
-**Atualização de preços:** **manual e incremental** (botão) — **sem CRON**
+**Atualização de preços:** **manual e incremental** (botão)
 
 ---
 
